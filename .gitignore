@@ -16,3 +16,7 @@ Thumbs.db
 /public
 !public/css
 !public/js
+CONTRIBUTING.md
+artisan
+phpunit.xml
+server.php
