@@ -13,3 +13,6 @@ Thumbs.db
 !app/controllers
 !app/routes
 /bootstrap
+/public
+!public/css
+!public/js
